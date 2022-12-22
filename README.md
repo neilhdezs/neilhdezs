@@ -5,3 +5,5 @@
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilhdezs&count_private=true&show_icons=true&theme=radical)
+</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neilhdezs&repo=github-readme-stats)](https://github.com/pakkk/StatsBomb)
